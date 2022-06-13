@@ -16,5 +16,5 @@
 
 ### Zamansız eğitimler kanalına çok teşekkür ederim.
 
-* *[Live Demo](https://MehmetAydar01.github.io/GitHub-Clone/)*
+
 
