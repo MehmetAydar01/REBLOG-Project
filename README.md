@@ -14,7 +14,7 @@
 
 ***
 
-#### Zamansız eğitimler kanalına çok teşekkür ederim.
+### Zamansız eğitimler kanalına çok teşekkür ederim.
 
 
 
