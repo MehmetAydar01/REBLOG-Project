@@ -16,5 +16,5 @@
 
 ### Zamansız eğitimler kanalına çok teşekkür ederim.
 
-*  [Live Demo](git@github.com:MehmetAydar01/REBLOG-Project.git)
+* *[Live Demo](https://github.com/MehmetAydar01/REBLOG-Project.git)*
 
